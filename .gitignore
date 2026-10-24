@@ -241,3 +241,6 @@ token*.txt
 # GeoTIFF rasters (large; regenerate via run_pipeline.py / data_view.ipynb)
 *.tif
 *.tiff
+
+#folder
+/data/

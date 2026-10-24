@@ -1,0 +1,31 @@
+{
+ "id": "BIO_FP_FH__L2A_20260306T050445_20260318T050513_T_G01_M02_C___T003_F310_02_DUFR29",
+ "date": "2026-03-06T00:00:00",
+ "track": 3,
+ "frame": 310,
+ "orbit": "ascending",
+ "look": "left",
+ "footprint": [
+  [
+   11.120148,
+   -0.46316725
+  ],
+  [
+   10.56532,
+   -0.5808668
+  ],
+  [
+   10.826347,
+   -1.8202991
+  ],
+  [
+   11.381583,
+   -1.7031915
+  ],
+  [
+   11.120148,
+   -0.46316725
+  ]
+ ],
+ "error": "RasterioIOError: '/vsicurl/https://catalog.maap.eo.esa.int/data/biomass-pdgs-01/BiomassLevel2a/2026/03/06/BIO_FP_FH__L2A_20260306T050445_20260318T050513_T_G01_M02_C___T003_F310_02_DUFR29/BIO_FP_FH__L2A_20260306T050445"
+}

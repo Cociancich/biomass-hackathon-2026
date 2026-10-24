@@ -1,0 +1,31 @@
+{
+ "id": "BIO_FP_FH__L2A_20260426T050853_20260508T050921_T_G01_M03_C___T003_F309_02_DSPBY7",
+ "date": "2026-04-26T00:00:00",
+ "track": 3,
+ "frame": 309,
+ "orbit": "ascending",
+ "look": "left",
+ "footprint": [
+  [
+   10.608829,
+   -1.5435687
+  ],
+  [
+   10.060689,
+   -1.659316
+  ],
+  [
+   10.323206,
+   -2.8987942
+  ],
+  [
+   10.871992,
+   -2.7835302
+  ],
+  [
+   10.608829,
+   -1.5435687
+  ]
+ ],
+ "error": "RasterioIOError: Read failed. See previous exception for details."
+}
