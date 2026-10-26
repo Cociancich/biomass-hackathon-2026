@@ -1,6 +1,6 @@
 {
   "catalog_url": "https://catalog.maap.eo.esa.int/catalogue/",
-  "biomass_datetime": "2026-01-01/2026-10-14",
+  "biomass_datetime": "2025-10-26/2026-10-26",
   "lvis_base_url": "https://data.ornldaac.earthdata.nasa.gov/protected/afrisar/Afrisar_LVIS_Biomass_VProfiles/data/",
   "swath_incidence_deg": [
     26.5,
