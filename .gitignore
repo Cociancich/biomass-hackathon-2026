@@ -244,3 +244,6 @@ token*.txt
 
 #folder
 /data/
+topics/11-B-FLOODED-FOREST.zip
+*.ipynb:Zone.Identifier
+topics/04-3D-TOMO-CANOPY-VISUALIZER/tomo-canopy.zip
